@@ -1,2 +1,2 @@
-# car-racing
-vaibhavsai
+# synchronousBallMovement
+Ball moving synchronously
